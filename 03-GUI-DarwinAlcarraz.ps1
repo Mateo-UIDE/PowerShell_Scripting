@@ -1,5 +1,5 @@
 ###############NOMBRE Y APELLIDO DEL AUTOR: DARWIN ALCARRAZ ####################
-
+TERCER SCRIPT: INTERFAZ GRAFICA DE USUARIO
 # 1. CARGAR LIBRERÍAS DE .NET PARA LA GUI
 
 #Lo que hace Add-Type es: Comando que carga un ensamblado (biblioteca de clases) de .NET en la sesión actual de PowerShell.
