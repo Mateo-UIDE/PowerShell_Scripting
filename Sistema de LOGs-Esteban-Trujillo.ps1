@@ -1,4 +1,5 @@
-###############NOMBRE Y APELLIDO DEL AUTOR(A): [Tu Nombre Completo]####################
+#TERCER SCRIPT:
+#ESTEBAN TRUJILLO
 
 # Define la primera función para crear carpetas de log.
 function New-FolderCreation {
